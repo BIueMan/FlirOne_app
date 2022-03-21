@@ -1,0 +1,3 @@
+# FlirOne_app
+
+README CODE WILL BE ADDED LATER
