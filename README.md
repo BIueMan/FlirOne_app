@@ -1,6 +1,6 @@
 # FlirOne_app
 
-![image]()
+![image](https://i.ytimg.com/vi/IY-SLw2c2vU/maxresdefault.jpg)
 
 this app was build to extract the most basic, raw data the FlirOne can provide. in order to use in Image Processing and Deep Learning in The Technion installation, under Bachelor Projects in SIPL lab.
 
